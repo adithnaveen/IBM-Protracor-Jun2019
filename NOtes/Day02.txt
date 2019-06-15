@@ -1,0 +1,59 @@
+descritbe("my suite", function(){
+
+
+	beforeEach(function(){
+		url = "myurlgoes.here.com"; 
+	})
+
+	descritbe("my suite, suceess case ", function(){
+		it("my case for adding" , function(){
+			
+		})
+	})
+	descritbe("my suite, fail case ", function(){
+	it("my case for adding" , function(){
+			
+		})
+	it("my case for adding" , function(){
+			
+		})
+	})
+
+
+	
+})
+
+
+http://probits.in/angular/RegForm.html
+
+
+
+//*[@id="ProductsSystem_YD9pMDOx"]/div[1]/div/div/div[2]/div[1]/div[2]/a/img
+
+//*[@id="ProductsSystem_YD9pMDOx"]/div[1]/div/div/div[2]/div[1]
+
+
+
+winston.add(winston.transports.File, { filename: 'somefile.log' });
+  winston.remove(winston.transports.Console);
+
+
+
+
+C:\Users\Naveen\AppData\Roaming\npm\node_modules\protractor\node_modules\webdriver-manager\selenium\geckodriver-v0.24.0.zip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

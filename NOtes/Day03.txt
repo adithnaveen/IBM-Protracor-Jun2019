@@ -1,0 +1,185 @@
+desc("story", ()=>{
+	it("case " , ()=>{
+		find element 
+		xpath(//div1/div[3]/span), 
+		id(name), name, model, etc 
+		expect 
+	})
+	
+	it("case " , ()=>{
+		find element 
+		xpath, id, name, model, etc 
+		expect 
+	})
+	it("case " , ()=>{
+		find element 
+		xpath, id, name, model, etc 
+		expect 
+	})
+})
+
+
+it("test case for india", ()=>{
+	if(value =='karnataka'){
+		var karnatakaCities = require("../cities/karnataka"); 
+	}else if(value ='delhi'){
+		var karnatakaCities = require("../cities/delhi"); 
+	
+	}
+})
+
+
+it("test case for india", ()=>{
+	if(value =='karnataka'){
+		var karnatakaCities = require("../cities/karnataka"); 
+	}else if(value ='delhi'){
+		var karnatakaCities = require("../cities/delhi"); 
+	
+	}
+})
+
+it("test case for other ", ()=>{
+	
+	ebxpath('some xpath").getText()
+		.then(()=>{})
+		.then(()=>{})
+		.then(()=>{})
+		.then(()=>{}); 
+		
+
+})
+
+
+
+
+
+ // directConnect:true, 
+    capabilities: {
+        'browserName': 'firefox', 
+        acceptSslCerts: true,
+        shardTestFiles: false,
+        maxInstances: 1
+    }
+   * Example:
+   * capabilities: {
+   *   browserName: 'chrome',
+   *   name: 'Unnamed Job',
+   *   logName: 'Chrome - English',
+   *   count: 1,
+   *   shardTestFiles: false,
+   *   maxInstances: 1,
+   *   specs: ['spec/chromeOnlySpec.js'],
+   *   exclude: ['spec/doNotRunInChromeSpec.js'],
+   *   seleniumAddress: 'http://localhost:4444/wd/hub'
+   * }
+
+
+
+   
+   
+   
+   
+   
+var gpom = require("./genericpom"); 
+it("my test case ", function(){
+	gpom.getField("name", "name").sendKeys("Sindhi"); 
+	gpom.getField("name", "state").sendKeys("Karnataka"); 
+	
+	var retValue = gpom.getFieldValue("name", "name"); 
+	
+})
+   
+   
+   
+   
+   
+   !doctype html>
+<html ng-app="todoApp">
+  <head>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.7.8/angular.min.js"></script>
+    <script src="todo.js"></script>
+    <link rel="stylesheet" href="todo.css">
+  </head>
+  <body>
+    <h2>Todo</h2>
+    <div ng-controller="TodoListController as todoList">
+      <span>{{todoList.remaining()}} of {{todoList.todos.length}} remaining</span>
+      [ <a href="" ng-click="todoList.archive()">archive</a> ]
+      <ul class="unstyled">
+        <li ng-repeat="todo in todoList.todos">
+          <label class="checkbox">
+            <input type="checkbox" ng-model="todo.done">
+            <span class="done-{{todo.done}}">{{todo.text}}</span>
+          </label>
+        </li>
+      </ul>
+      <form ng-submit="todoList.addTodo()">
+        <input type="text" ng-model="todoList.todoText"  size="30"
+               placeholder="add new todo here">
+        <input class="btn-primary" type="submit" value="add">
+      </form>
+    </div>
+  </body>
+</html>
+   
+   
+   https://bit.ly/2MTsNXy
+   
+   https://bit.ly/2wVgiBf
+   
+   
+  npm install  -g @angular/cli 
+  
+  
+  
+with the POM we want to jave locators from json
+exceljs -> for iterating the records 
+
+npm xlsx 
+
+https://www.npmjs.com/package/protractor-beautiful-reporter
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  https://github.com/angular/protractor/blob/5.4.1/lib/config.ts
+
+  adith.naveen@gmail.com
+  naveen@probits.in 
+  
+  +91 9900 524 255 
+  https://www.linkedin.com/in/naveenkumarks/
+  
+  
+   // directConnect:true, 
+    capabilities: {
+        'browserName': 'firefox', 
+        acceptSslCerts: true,
+        shardTestFiles: false,
+        maxInstances: 1
+    }
+   * Example:
+   * capabilities: {
+   *   browserName: 'chrome',
+   *   name: 'Unnamed Job',
+   *   logName: 'Chrome - English',
+   *   count: 1,
+   *   shardTestFiles: false,
+   *   maxInstances: 1,
+   *   specs: ['spec/chromeOnlySpec.js'],
+   *   exclude: ['spec/doNotRunInChromeSpec.js'],
+   *   seleniumAddress: 'http://localhost:4444/wd/hub'
+   * }
+   
+   
+
+
+
+
+

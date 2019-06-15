@@ -1,0 +1,17 @@
+{
+  "name": "protractorworks",
+  "version": "1.0.0",
+  "description": "This is for protractor training in IBM, Bengaluru. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Naveen",
+  "license": "ISC",
+  "dependencies": {
+    "exceljs": "^1.12.1",
+    "protractor": "^5.4.2",
+    "protractor-jasmine2-html-reporter": "0.0.7",
+    "winston2": "^1.0.3"
+  }
+}

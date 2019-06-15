@@ -1,0 +1,156 @@
+describe("A suite is just a function", function() {
+  var a;
+
+  it("and so is a spec", function() {
+    a = true;
+
+    expect(a).toBe(true);
+  });
+});
+
+
+class Maths{
+	private int num1; 
+	private int num2; 
+
+	public int add(){
+		return this.num + this.num2; 
+	}		
+
+}
+
+Maths = function (num1, num2){
+	this.num1 = num1; 
+	this.num2 = num2; 
+}
+
+Maths.prototype.add = function(){
+	return this.num1 + this.num2; 
+}
+
+
+<!doctype html>
+<html ng-app>
+  <head>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.7.8/angular.min.js"></script>
+  </head>
+  <body>
+    <div>
+      <label>Name:</label>
+      <input type="text" ng-model="yourName" placeholder="Enter a name here">
+      <hr>
+      <h1>Hello {{yourName}}!</h1>
+    </div>
+  </body>
+</html>
+
+id, name, xpath, css, 
+ngmodel 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+describe("this feature is for testing end to end for user validation", function(){
+it("this test case is for validating valid user ", function(){
+	 
+})
+
+
+
+it("this test case is for validating invalid user ", function(){
+	 
+})
+
+
+
+
+
+
+})
+
+
+        var retValue = element(by.binding('yourName'))
+                        .getText().then(function(text){
+                            console.log("Returned Text :" + text);
+                            return text; 
+                        })
+
+
+        var retValue = element(by.binding('yourName')                      .getText().then(text => {return text; })
+
+
+
+
+
+
+
+
+
+
+
+List<WebElement> myList = driver.findElements(By.css("something")); 
+
+for(WebElement element : myList){
+	
+]
+
+
+
+
+
+
+
+
+
+
+------------------------------------------------
+
+
+
+ var retValue = element(by.binding('yourName')); 
+
+retValue.getText().then(function(val){console.log("")})
+
+
+Employee e; 
+e = new Employee(); 
+
+
+
+
+
+http://probits.in/angular/FormValidate.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

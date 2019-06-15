@@ -1,0 +1,16 @@
+{
+    "url":"http://probits.in/loginapp/login.php",
+    "locators":{
+        "loginpage": {
+            "username":"email", 
+            "password":"pass", 
+            "loginbtn":"login"
+        }
+    }, 
+    "userdetails":{
+       "values":{
+           "username":"hello@ibm.com", 
+           "password":"password"
+       } 
+    }
+}
